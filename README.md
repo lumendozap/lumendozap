@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lumendozap
 - 👀 I’m interested in Data science, food and music.
-- 🌱 I’m currently learning data science en {Desafio Latam}
+- 🌱 I’m currently learning data science en {Desafio}latam_
 - 📫 How to reach me: luis.mendoza@usach.cl
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I create surreal collages and conduct audits. Who would have thought that food safety and art could go hand in hand?
